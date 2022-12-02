@@ -1,0 +1,5 @@
+C:\CustomizeStyleCop\CustomStyleCopRule\obj\Debug\net7.0\CustomStyleCopRule.csproj.AssemblyReference.cache
+C:\CustomizeStyleCop\CustomStyleCopRule\obj\Debug\net7.0\CustomStyleCopRule.GeneratedMSBuildEditorConfig.editorconfig
+C:\CustomizeStyleCop\CustomStyleCopRule\obj\Debug\net7.0\CustomStyleCopRule.AssemblyInfoInputs.cache
+C:\CustomizeStyleCop\CustomStyleCopRule\obj\Debug\net7.0\CustomStyleCopRule.AssemblyInfo.cs
+C:\CustomizeStyleCop\CustomStyleCopRule\obj\Debug\net7.0\CustomStyleCopRule.csproj.CoreCompileInputs.cache

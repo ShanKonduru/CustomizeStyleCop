@@ -1,12 +1,10 @@
-﻿namespace CustomStyleCopRule {
-    using System;
-    using Microsoft.StyleCop.CSharp;
-    using Microsoft.StyleCop;
+﻿    using System;
+    using StyleCop;
+    using StyleCop.Diagnostics;
+    using StyleCop.Spelling;
+    
 
     namespace CustomStyleCopRule {
-        using System;
-        using Microsoft.StyleCop.CSharp;
-        using Microsoft.StyleCop;
 
         [SourceAnalyzer (typeof (CsParser))]
         public class CustomSourceAnalyzer : SourceAnalyzer {
@@ -37,4 +35,3 @@
             }
         }
     }
-}
